@@ -1,4 +1,4 @@
 # rlku
 My First Repository.
 <br>
-Author - Ahsan Ijaz 
+Author - Ahsan Ijaz Khan
